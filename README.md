@@ -1,6 +1,7 @@
+[![ProfileViews](https://komarev.com/ghpvc/?username=reinaldooli)](https://github.com/reinaldooli)
+
 **Hi, I'm Reinaldo 👑**
 
-[![ProfileViews](https://komarev.com/ghpvc/?username=reinaldooli)](https://github.com/reinaldooli)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldooli/)
 
 **Languages I have used**
