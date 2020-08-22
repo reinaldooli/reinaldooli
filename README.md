@@ -1,10 +1,11 @@
 **Hi, I'm Reinaldo 👑**
 
+[![ProfileViews](https://komarev.com/ghpvc/?username=reinaldooli)](https://github.com/reinaldooli)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldooli/)
 
 **Languages I have used**
 
-![RubyC](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=Ruby&logoColor=CC342D)
+![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=Ruby&logoColor=CC342D)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
