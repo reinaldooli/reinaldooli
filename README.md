@@ -35,9 +35,6 @@ Web/Full Stack:
 
 <!--START_SECTION:waka-->
 ```text
-Docker       10 mins         ████████████████▒░░░░░░░░   64.94 % 
-YAML         4 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.56 % 
-TypeScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
