@@ -35,6 +35,10 @@ Web/Full Stack:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   1 hr 7 mins     ████████████████▓░░░░░░░░   66.24 % 
+JSON         24 mins         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+Bash         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+YAML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 <!--END_SECTION:waka-->
