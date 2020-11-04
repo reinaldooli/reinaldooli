@@ -35,10 +35,10 @@ Web/Full Stack:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   11 hrs 4 mins   ██████████████░░░░░░░░░░░   56.62 % 
-YAML         3 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-HTML         1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-JSON         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-JavaScript   57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+TypeScript   8 hrs 28 mins   ███████████░░░░░░░░░░░░░░   44.21 % 
+YAML         5 hrs 44 mins   ███████▒░░░░░░░░░░░░░░░░░   29.98 % 
+HTML         1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+JSON         1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+JavaScript   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 <!--END_SECTION:waka-->
