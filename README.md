@@ -35,6 +35,10 @@ Web/Full Stack:
 
 <!--START_SECTION:waka-->
 ```text
-Python   17 mins         █████████████████████████   100.00 % 
+TypeScript   2 hrs 30 mins   █████████████████████░░░░   83.56 % 
+Python       17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+PHP          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 <!--END_SECTION:waka-->
