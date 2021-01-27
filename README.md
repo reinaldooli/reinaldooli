@@ -35,10 +35,10 @@ Web/Full Stack:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript        37 hrs 35 mins  ████████████████▒░░░░░░░░   65.79 % 
-CSS               6 hrs 46 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Other             4 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-HTML              3 hrs 50 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Protocol Buffer   1 hr 26 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+TypeScript   31 hrs 8 mins   ██████████████▒░░░░░░░░░░   56.95 % 
+CSS          8 hrs 44 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Other        6 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+HTML         4 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+YAML         1 hr 5 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 <!--END_SECTION:waka-->
