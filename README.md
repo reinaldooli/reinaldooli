@@ -35,6 +35,6 @@ Web/Full Stack:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Ruby   3 hrs 45 mins   █████████████████████████   99.70 % 
 ```
 <!--END_SECTION:waka-->
