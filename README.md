@@ -35,7 +35,6 @@ Web/Full Stack:
 
 <!--START_SECTION:waka-->
 ```text
-Other   1 hr 17 mins    █████████████████░░░░░░░░   67.45 % 
-Ruby    37 mins         ████████░░░░░░░░░░░░░░░░░   32.54 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
