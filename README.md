@@ -35,8 +35,6 @@ Web/Full Stack:
 
 <!--START_SECTION:waka-->
 ```text
-Total: 1 hr 8 mins
-
 Ruby       1 hr 5 mins     ███████████████████████▓░   95.11 % 
 Markdown   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 ```
