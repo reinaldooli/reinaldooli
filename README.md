@@ -36,7 +36,9 @@ Web/Full Stack:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go      1 min           █████████████████████▓░░░   87.17 %
+SQL     0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
