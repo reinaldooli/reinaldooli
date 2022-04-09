@@ -36,7 +36,7 @@ Web/Full Stack:
 <!--START_SECTION:waka-->
 
 ```text
-Other   57 mins         █████████████████████████   99.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
