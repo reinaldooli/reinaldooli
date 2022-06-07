@@ -36,8 +36,9 @@ Web/Full Stack:
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         10 hrs 6 mins   █████████████████████▓░░░   86.47 %
-Other        1 hr 29 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
+Ruby    9 hrs 56 mins   ████████████████████████▓   98.78 %
+YAML    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
