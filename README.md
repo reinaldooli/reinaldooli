@@ -36,7 +36,7 @@ Web/Full Stack:
 <!--START_SECTION:waka-->
 
 ```text
-Other      2 hrs 2 mins    ███████████████████░░░░░░   75.61 %
+Other   2 hrs 2 mins    ██████████████▓░░░░░░░░░░   58.20 %
 ```
 
 <!--END_SECTION:waka-->
