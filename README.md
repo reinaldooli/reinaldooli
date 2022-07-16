@@ -36,9 +36,11 @@ Web/Full Stack:
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         12 hrs 2 mins   █████████████████████▓░░░   86.52 %
-JavaScript   1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-Other        29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Ruby         8 hrs 56 mins   █████████████████████░░░░   84.42 %
+JavaScript   1 hr 23 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
+HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Elixir       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
