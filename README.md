@@ -36,8 +36,7 @@ Web/Full Stack:
 <!--START_SECTION:waka-->
 
 ```text
-Ruby   0 secs          █████████████████████████   100.00 %
-Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
