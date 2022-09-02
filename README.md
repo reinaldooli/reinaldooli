@@ -36,9 +36,7 @@ Web/Full Stack:
 <!--START_SECTION:waka-->
 
 ```text
-SQL    15 mins         █████████▒░░░░░░░░░░░░░░░   36.80 %
-ERB    14 mins         █████████░░░░░░░░░░░░░░░░   36.03 %
-Ruby   11 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
